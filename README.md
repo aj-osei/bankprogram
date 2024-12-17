@@ -1,6 +1,6 @@
 # bankprogram
 
-Python Banking Program
+Python Banking Program:
 This is a simple command-line banking program written in Python that allows users to perform basic banking operations such as checking their balance, depositing money, and withdrawing funds. It simulates a basic banking interface using a menu-driven approach.
 
 Features:
