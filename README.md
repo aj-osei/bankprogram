@@ -1,30 +1,18 @@
-# bankprogram
-
-Python Banking Program:
-This is a simple command-line banking program written in Python that allows users to perform basic banking operations such as checking their balance, depositing money, and withdrawing funds. It simulates a basic banking interface using a menu-driven approach.
-
-Features:
-- Check Balance: View your current account balance.
-- Deposit Funds: Add funds to your account.
-- Withdraw Funds: Withdraw money from your account.
-- Exit: Exit the program.
+# 💫 About Me:
+Hi! I'm a third-year computer science student passionate about coding and building projects that solve real-world problems. I love working on everything from web development to algorithms and data structures, and I'm always eager to learn new technologies. 
 
 
-How It Works:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj-osei) 
 
-Check Balance:
-Displays the current balance in the account.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aj-osei&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aj-osei&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-osei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Deposit:
-Allows the user to enter a positive amount to deposit. If the amount is invalid (negative or zero), the program prompts the user to enter a valid amount.
+---
+[![](https://visitcount.itsvg.in/api?id=aj-osei&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Withdraw:
-Prompts the user to enter the amount they wish to withdraw. If the user attempts to withdraw more than their current balance, the program will notify them of insufficient funds. The program ensures that the withdrawal amount is positive.
-
-Exit:
-Ends the program with a friendly exit message.
-
-Future Improvements
--Implement user authentication (login/signup system).
--Save user data (balance, transaction history) between sessions using a file/database.
--Add a transaction history feature to track deposits and withdrawals.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
