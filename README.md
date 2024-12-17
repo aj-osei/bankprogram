@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi! I'm a third-year computer science student passionate about coding and building projects that solve real-world problems. I love working on everything from web development to algorithms and data structures, and I'm always eager to learn new technologies. 
+Hi! I’m a third-year computer science student with a strong focus on Java, Python, and C. I enjoy building projects and solving problems using these languages, from algorithms to applications. I’m always looking to improve my skills and learn new technologies. On this GitHub, you’ll find a collection of personal projects and assignments that highlight my experience with these languages. Feel free to explore, and let’s connect!<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj-osei) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj-osei-aa486a256) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
