@@ -1,14 +1,27 @@
 # Python Banking Program
 
 def show_balance():             #function to show balance off customer
+    print(f"Your balance is ${balance: .2f}")
     pass
 
 
 def deposit():                  #function to make deposit
-    pass
+    amount = float(input("Enter an amount to be deposited: "))
+    if amount < 0:
+        print("Invalid amount please select a value greater than 0")
+        return 0
+    else:
+        return amount
 
 def withdraw():                 #function to make withdraws
-    pass
+    amount = float(input("Enter an amount to be withdrawn: "))
+    if amount > balance:
+        print("Insufficient funds")
+        return 0
+    elif amount < 0:
+        print("Amount must be greater than 0")
+    else:
+        return amount
 
 
 balance = 0
@@ -26,11 +39,14 @@ while is_running:
     if choice == "1":
         show_balance()
     elif choice == '2':
-        deposit()
+        balance += deposit()
     elif choice == '3':
-        withdraw()
+        balance -= withdraw()
     elif choice == '4':
-        is_running = false
+        is_running = False
     else:
         print("Invalid input! Please choose a number (1-4)")
+
+
+print("Thank you for banking with us! Have a nice day!")
 
